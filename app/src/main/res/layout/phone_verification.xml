@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/loginElements"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+        <EditText
+            android:id="@+id/PhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:drawableLeft="@drawable/phone"
+            android:drawablePadding="10dp"
+            android:hint="Enter Phone number to get OTP" />
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:drawableLeft="@drawable/man"
+            android:drawablePadding="10dp"
+            android:hint="Name" />
+        <EditText
+            android:id="@+id/OTP"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:drawableLeft="@drawable/phone"
+            android:drawablePadding="10dp"
+            android:hint="Enter OTP" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/verify"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@id/loginElements"
+        android:text="Click Here" />
+
+</RelativeLayout>

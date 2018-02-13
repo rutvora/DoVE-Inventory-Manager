@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263250689981",
+    "firebase_url": "https://dove-d1448.firebaseio.com",
+    "project_id": "dove-d1448",
+    "storage_bucket": "dove-d1448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263250689981:android:8bb5dee4bd782dca",
+        "android_client_info": {
+          "package_name": "com.bphc.dove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263250689981-icnn1m1dstb27ainnvqbktdvc5bf2mqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bphc.dove",
+            "certificate_hash": "2e6613bf2e67b931d985fbd2d80b3e56add494f8"
+          }
+        },
+        {
+          "client_id": "263250689981-68u2la64eo6cd5ntu810evcorhukr4fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLwOwGWBVeYXEVS5YSUH3KqjwWTysetE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263250689981-68u2la64eo6cd5ntu810evcorhukr4fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

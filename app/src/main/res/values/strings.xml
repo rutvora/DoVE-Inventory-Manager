@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">DoVE</string>
+    <string name="buttonAfterOTPSent">Click after entering OTP</string>
+    <string name="buttonAfterOTPTimeout">Click Here</string>
+
+    <string-array name="CameraSpinner">
+        <item>None</item>
+        <item>Phoenix</item>
+        <item>Eagle 1</item>
+        <item>Eagle 2</item>
+        <item>GH5</item>
+        <item>5D 1</item>
+        <item>5D 2</item>
+        <item>60D</item>
+        <item>750D</item>
+        <item>Sony Alpha 58</item>
+        <item>1200D</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="LensSpinner">
+        <item>None</item>
+        <item>Canon 50mm prime</item>
+        <item>Canon 18-135mm</item>
+    </string-array>
+
+    <string-array name="TripodSpinner">
+        <item>None</item>
+        <item>Phoenix Tripod</item>
+        <item>Benro 1 with base</item>
+        <item>Sony Tripod</item>
+    </string-array>
+
+    <string-array name="AccessoriesSpinner">
+        <item>None</item>
+        <item>Monopod</item>
+        <item>Flycam</item>
+        <item>Slider with manfrotto base</item>
+
+    </string-array>
+
+    <string-array name="SDSpinner">
+        <item>None</item>
+        <item>16 micro with samsung adapter</item>
+        <item>Lexar 8GB</item>
+        <item>32 micro with sandisk adapter</item>
+        <item>Sandisk 32 Extreme</item>
+        <item>Sandisk 16 Ultra</item>
+        <item>Sandisk 64</item>
+
+    </string-array>
+
+
+</resources>
